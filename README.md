@@ -10,6 +10,10 @@ Stress is a critical factor influencing workplace productivity and health, yet i
 
 Using publicly available physiological data collected from healthcare workers, this study aims to explore how stress manifests across different temporal phases using biosignals such as Electrodermal Activity (EDA), Heart Rate (HR), and Inter-Beat Interval (IBI). These insights can inform early intervention strategies and support organizational well-being programs.
 
+📍 Significance
+
+This project illustrates how biosensor data can be used to identify stress dynamics in high-demand roles. It serves as a stepping stone toward building scalable, data-driven tools for workplace well-being and early stress detection.
+
 🎯 Objectives
 
 To clean, process, and analyze wearable biosensor data.
@@ -78,7 +82,7 @@ Initial Phase: Greater variability in both metrics, indicating mixed physiologic
 
 📌 Recommendation
 
-It is real — and in many organizations, the warning signs go unnoticed until it’s too late. This is especially true in parts of Africa, where access to mental health support and therapists is limited.
+Stress is real — and in many organizations, the warning signs go unnoticed until it’s too late. This is especially true in parts of Africa, where access to mental health support and therapists is limited.
 
 While the dataset used in this analysis is based on nurses in a healthcare setting, it shows how biosensor data can detect stress fluctuations across time — giving us a powerful tool for early intervention.
 
@@ -136,12 +140,9 @@ pip install -r requirements.txt
 
 👤 Author:
 Motunrayo Awe
-_www.linkedin.com/in/motunrayo-awe-mac_
+https://www.linkedin.com/in/motunrayo-awe-mac/
 Data Enthusiast | Health & Workplace Wellness Analyst
 
-📍 Significance
-
-This project illustrates how biosensor data can be used to identify stress dynamics in high-demand roles. It serves as a stepping stone toward building scalable, data-driven tools for workplace well-being and early stress detection.
 
 🔖 References
 
@@ -149,7 +150,7 @@ Ozcelik, D., et al. (2021). Wearable sensor dataset to track physical activity, 
 
 Shaffer, F., & Ginsberg, J. P. (2017). An Overview of Heart Rate Variability Metrics and Norms. Frontiers in Public Health, 5, 258. https://doi.org/10.3389/fpubh.2017.00258
 
-ChatGPT by OpenAI (2025). Used for code troubleshooting, technical writing, and insight formulation.
+ChatGPT by OpenAI (2025). Used for code troubleshooting, and technical writing.
 
 
 
